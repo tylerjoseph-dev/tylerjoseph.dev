@@ -21,9 +21,14 @@ section{
 
 footer{
     background-color: black;
-    height: 95px !important;
+    height: 125px !important;
     margin-bottom: 0px;
     margin-top: 5px;
+    padding-top:5px
+}
+
+footer h3, footer h4{
+    padding-top:15px
 }
 
 /* Horizontal Ruler Formatting */
@@ -116,4 +121,14 @@ h2{
 }
 
 
+/*
 
+    DO NOT TOUCH ME
+CSS Styling for SSL Image
+
+*/
+.ssl{
+    height:auto;
+    width:fit-content;
+    margin:auto;
+}
